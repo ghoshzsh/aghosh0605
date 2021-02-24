@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Ghosh</h1>
 <h3 align="center">Passionate about Penetration Testing and Bug Bounty Hunting</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghosh0605&label=Profile%20views&color=0e75b6&style=flat" alt="aghosh0605" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aghosh0605" target="blank"><img src="https://img.shields.io/twitter/follow/aghosh0605?logo=twitter&style=for-the-badge" alt="aghosh0605" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghosh0605&label=Profile%20views&color=0e75b6&style=flat" alt="aghosh0605" /> 
+<a href="https://twitter.com/aghosh0605" target="blank"><img src="https://img.shields.io/twitter/follow/aghosh0605?logo=twitter&style=for-the-badge" alt="aghosh0605" /></a> </p>
 
 - 🔭 I’m currently working on 
    - **Team RUDRA**
