@@ -1,5 +1,6 @@
 <!--
-**SneakySensei/SneakySensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**aghosh0605/aghosh0605** is a special repository: its README.md will appear on your profile!
 
 Here are some ideas to get you started:
 
@@ -12,23 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/aghosh0605/aghosh0605/blob/46fbc0c7b041e23e79bb5879068fcdf364c7baa9/dpp.jpg" />
 </p>
 <p align="center">
   <a href="https://twitter.com/aghosh0605" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aghosh0605/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/aniruddha_ghosh.2001/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://connectwithmedemo.netlify.app/"  target="_blank"><img src="portfolio.svg"></a>
+  <a href="https://connectwithmedemo.netlify.app/"  target="_blank"><img src="./portfolio.svg"></a>
   <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" />
 </p>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aghosh0605&theme=dark" />
 
 ## About Me 👨‍🎓
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to intern React developer roles
-- 💬 Ask me about Game Dev, IoT, and React
+- 🌱 I’m currently learning Ethical Hacking😋
+- 👯 I’m looking for a good hacking group.🙂
+- 💬 Ask me about web dev,cloud, ROS, Linux, CLI, Ethical Hacking etc.🤠
 - 📫 How to reach me: <a href="https://discord.gg/pFrq4SRNbe">Discord</a>, <a href="https://fb.com/aghosh0605">Facebook</a>
 
 <br><br><br>
