@@ -1,40 +1,39 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Ghosh</h1>
-<h3 align="center">Passionate about Penetration Testing and Bug Bounty Hunting</h3>
+<!--
+**SneakySensei/SneakySensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aghosh0605&label=Profile%20views&color=0e75b6&style=flat" alt="aghosh0605" /> 
-<a href="https://twitter.com/aghosh0605" target="blank"><img src="https://img.shields.io/twitter/follow/aghosh0605?logo=twitter&style=for-the-badge" alt="aghosh0605" /></a> </p>
+Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-   - **Team RUDRA**
-   - **AlexaDevSRM**
-   - **Coding Ninja SRM**
-
-- 🌱 I’m currently learning 
-   - **Penetration Testing and Bug Bounty Hunting**
-   - **Robotics**
-   - **IOT**
-   - **Web Development**
-- 💬 Ask me about **Computer**
-
-- 👯 I’m looking to collaborate on **Hacking Community**
-
-- 🤝 I’m looking for help with **Hacking Skills**
-
-- 📫 How to reach me **aghosh0605@gmail.com**
-
-- ⚡ Fun fact **Playing CSGO and COC**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aghosh0605" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aghosh0605" height="30" width="40" /></a>
-<a href="https://fb.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aghosh0605" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC9dnPXrSNHznSC3JsFMtHQw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Silicon Hertz" height="30" width="40" /></a>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<p align="center">
+  <img src="" />
+</p>
+<p align="center">
+  <a href="https://twitter.com/aghosh0605" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aghosh0605/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/aniruddha_ghosh.2001/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://connectwithmedemo.netlify.app/"  target="_blank"><img src="portfolio.svg"></a>
+  <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aghosh0605&theme=dark" />
 
+## About Me 👨‍🎓
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to intern React developer roles
+- 💬 Ask me about Game Dev, IoT, and React
+- 📫 How to reach me: <a href="https://discord.gg/pFrq4SRNbe">Discord</a>, <a href="https://fb.com/aghosh0605">Facebook</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghosh0605&show_icons=true&locale=en&layout=compact" alt="aghosh0605" /></p>
+<br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghosh0605&show_icons=true&locale=en" alt="aghosh0605" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghosh0605&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghosh0605&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
+</p>
