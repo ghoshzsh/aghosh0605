@@ -52,4 +52,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/aghosh0605"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aghosh0605" /></a></p><br><br>
+<p align="center"><a href="https://rzp.io/l/pq297AOKk8"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aghosh0605" /></a></p><br><br>
