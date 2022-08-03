@@ -24,11 +24,11 @@
 
 - 🔭 I’m currently working on **building skills.**
 
-- 🌱 I’m currently learning **Penetration Testing.**
+- 🌱 I’m currently learning **Technologies**
 
-- 👯 I’m looking to collaborate **with teams having knowledge on Hacking.**
+- 👯 I’m looking to collaborate **with teams having interest in Technologies.**
 
-- 💬 Ask me about **Linux, IOT, Ethical Hacking, Web Dev etc.**
+- 💬 Ask me about **Web Development, Linux, IOT, Cybersecurity, Networking, Cloud etc.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
