@@ -30,8 +30,10 @@
 
 - 💬 Ask me about **Web Development, Linux, IOT, Cybersecurity, Networking, Cloud etc.**
 
-### Blogs posts
+### Badges
 <!-- BLOG-POST-LIST:START -->
+[![@aghosh0605's Holopin board](https://holopin.me/aghosh0605)](https://holopin.io/@aghosh0605)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
