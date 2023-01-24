@@ -14,9 +14,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aghosh0605&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<p align="center"> <a href="https://twitter.com/aghosh0605" target="blank"><img src="https://img.shields.io/twitter/follow/aghosh0605?logo=twitter&style=for-the-badge" alt="aghosh0605" /></a> </p>
-
 <!-- Streak -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aghosh0605&theme=dark" alt="aghosh0605" /></p>
 
@@ -33,7 +30,7 @@
 [![@aghosh0605's Holopin board](https://holopin.me/aghosh0605)](https://holopin.io/@aghosh0605)
 
 ### Contribution Graph
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aghosh0605&theme=xcode)](https://github.com/aghosh0605)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aghosh0605&theme=github-compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
