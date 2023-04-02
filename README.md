@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on **building skills.**
 
-- 🌱 I’m currently learning **Technologies**
+- 🌱 I’m currently learning **different technologies**
 
-- 👯 I’m looking to collaborate **with teams having interest in Technologies.**
+- 👯 I’m looking to collaborate **with teams having interest in Cybersecurity.**
 
-- 💬 Ask me about **Web Development, Linux, IOT, Cybersecurity, Networking, Cloud etc.**
+- 💬 Ask me about **Cybersecurity, Backend Development, IOT, Cloud, Networking and Linux**
 
 ### Badges
 <!-- BLOG-POST-LIST:START -->
