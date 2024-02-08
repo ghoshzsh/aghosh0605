@@ -31,11 +31,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aghosh0605" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aghosh0605" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15010218/aniruddha-ghosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="aghosh0605" height="30" width="40" /></a>
-<a href="https://fb.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aghosh0605" height="30" width="40" /></a>
-<a href="https://instagram.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aniruddha_ghosh.2001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9dnPXrSNHznSC3JsFMtHQw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc9dnpxrsnhznsc3jsfmthqw" height="30" width="40" /></a>
+<a href="https://twitter.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aghosh0605" height="30" width="40" /></a>
+<a href="https://instagram.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aniruddha_ghosh.2001" height="30" width="40" /></a>
 </p>
 <!-- BLOG-POST-LIST:END -->
