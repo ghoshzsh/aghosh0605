@@ -38,7 +38,5 @@
 <a href="https://instagram.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aniruddha_ghosh.2001" height="30" width="40" /></a>
 <a href="https://medium.com/@aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aghosh0605" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC9dnPXrSNHznSC3JsFMtHQw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc9dnpxrsnhznsc3jsfmthqw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aghosh0605" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aghosh0605" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@aghosh0605" height="30" width="40" /></a>
 </p>
 <!-- BLOG-POST-LIST:END -->
