@@ -27,7 +27,7 @@
 
 ### Badges
 <!-- BLOG-POST-LIST:START -->
-[![@ghoshzsh's Holopin board](https://holopin.me/ghoshzsh)](https://holopin.io/@ghoshzsh)
+[![@ghoshzsh's Holopin board](https://holopin.me/aghosh0605)](https://holopin.io/@aghosh0605)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
